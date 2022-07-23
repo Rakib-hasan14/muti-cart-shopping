@@ -1,0 +1,22 @@
+.cart-style{
+    display: flex;
+    justify-content: end;
+    width: 5%;
+    position: relative;
+    cursor: pointer
+}
+.cartIcon{
+    font-size: 25px;
+}
+.cartBadge{
+    height: 15px;
+    font-size: 9px;
+    position: absolute;
+    right: -8px;
+    top: -6px;
+}
+.account{
+    width: 25%;
+    text-align: center;
+    font-size: 14px;
+}

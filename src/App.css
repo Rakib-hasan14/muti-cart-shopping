@@ -1,0 +1,61 @@
+body, h1, h2, h3, h4, h5, h6, p, a, span{
+  font-family: 'Ubuntu', sans-serif
+}
+
+.main-bg{
+  background-color: #4cb9b4;
+}
+.main-text{
+  background-color: #4cb9b4;
+}
+.secondary-bg{
+  background-color: #f7f7f7;
+}
+.white-bg{
+  background-color: #fff;
+}
+.custom-btn{
+  background-color: #28b1aab8;
+  border: none;
+  font-size: 14px;
+  transition: all 0.4s
+}
+.custom-btn:hover{
+  background-color: #008b83b8;
+  box-shadow: #5f7070 0px 4px 8px 1px
+}
+
+.available{
+  color: green;
+    font-weight: bold;
+}
+.unavailable{
+  color: red;
+    font-weight: bold;
+}
+.click-active{
+  border: 1px solid #d1d1d1;
+    border-radius: 6px;
+}
+.custom-p{
+  padding: 8px 30px;
+}
+.customp-btn-p{
+  padding: 9.7px 12px;
+}
+.cart-btn {
+  padding: 15px 16px;
+  border-radius: 6px;
+}
+.w-85{
+  width: 85%!important;
+}
+.top-0{
+  top: 0;
+}
+.z-100{
+  z-index: 999
+}
+.z-1{
+  z-index: -1
+}
